@@ -32,3 +32,6 @@ payments.zip*
 
 **/.DS_Store
 **/package-lock.json
+
+exchange_modules/
+.exchange_modules_tmp/
